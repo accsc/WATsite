@@ -83,7 +83,7 @@ void WaterOccupancy(char *infile, ligand *lig, grid *grd, fgrid *fgrd, water *wt
 		char result[1024];
 
 		char string[100];
-		sprintf(string, "tail -n 100000 %s | grep MODEL", infile);
+		sprintf(string, "grep MODEL %s", infile);
 		//printf("%s\n", string);
 		cmd = popen(string, "r");
 		if (cmd == NULL) {
