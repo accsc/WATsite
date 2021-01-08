@@ -1,0 +1,9 @@
+@cluster# entropy(-TS_e) enthalpy total(E-TS) center_x center_y center_z dH dTS
+ATOM      1  O   WAT A   1     -32.682 -70.416  -6.333  1.21  4.16           O
+ATOM      2  O   WAT A   2     -30.682 -71.666  -7.833  0.87  2.74           O
+ATOM      3  O   WAT A   3     -30.932 -72.416  -4.833  1.26  2.12           O
+ATOM      4  O   WAT A   4     -34.932 -71.916  -7.333  1.59  4.15           O
+ATOM      5  O   WAT A   5     -32.932 -73.666  -3.083  0.07  2.90           O
+ATOM      6  O   WAT A   6     -35.932 -73.666  -5.583  1.61  2.18           O
+ATOM      7  O   WAT A   7     -35.432 -74.166  -3.833  1.56  2.72           O
+ATOM      8  O   WAT A   8     -32.682 -74.166  -5.583  1.04  2.18           O

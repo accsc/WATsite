@@ -1,0 +1,11 @@
+ProductionStep      10000000
+Interval            1000
+numFrame            10000
+Protein             MyProtein.pdb
+Ligand              MyLigand.mol2
+HydrationSiteMol2   WATsite_OUT/HydrationSites.mol2
+HydrationSitePDB    WATsite_OUT/HydrationSites.pdb
+GridMol2            WATsite_OUT/FilterGrid.mol2
+GridDX              WATsite_OUT/grid_occupancy.dx
+WaterTraj           WATsite_OUT/WATinside.mol2
+EnergyFile          WATsite_OUT/cluster.egy

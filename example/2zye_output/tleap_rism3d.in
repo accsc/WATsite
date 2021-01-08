@@ -1,0 +1,11 @@
+source leaprc.protein.ff14SB
+source leaprc.gaff
+source leaprc.water.spce
+loadamberparams ligPrep/lig_AC.frcmod
+SUB = loadmol2  ligPrep/lig_bcc_gaff.mol2
+prot = loadpdb  prot_dry.pdb
+sys = combine {prot SUB}
+saveAmberParm sys prot_dry.prmtop prot_dry.inpcrd
+quit
+
+

@@ -1,0 +1,14 @@
+source leaprc.protein.ff14SB
+source leaprc.gaff
+source leaprc.water.spce
+loadamberparams ligPrep/lig_AC.frcmod
+SUB = loadmol2  ligPrep/lig_bcc_gaff.mol2
+dry = loadpdb prot_dry.pdb
+wat = loadpdb gasol_wat.pdb
+sys = combine {dry SUB wat}
+solvateBox sys SPCBOX 10.00
+addIons2 sys Cl- 0
+addIons2 sys Na+ 0
+saveAmberParm sys prot_amber.prmtop prot_amber.inpcrd
+quit
+

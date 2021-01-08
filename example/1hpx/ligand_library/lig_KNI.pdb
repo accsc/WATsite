@@ -1,0 +1,93 @@
+HETATM    1  C1  KNI B 900       6.848   1.181   6.159  1.00 31.81      C    C  
+HETATM    2  C2  KNI B 900       6.303   2.017   7.116  1.00 31.46      C    C  
+HETATM    3  C3  KNI B 900       6.886   3.273   7.363  1.00 30.02      C    C  
+HETATM    4  C4  KNI B 900       7.991   3.592   6.613  1.00 31.19      C    C  
+HETATM    5  C5  KNI B 900       8.468   2.649   5.645  1.00 31.22      C    C  
+HETATM    6  C6  KNI B 900       6.352   4.170   8.347  1.00 28.81      C    C  
+HETATM    7  C7  KNI B 900       7.000   5.388   8.521  1.00 29.66      C    C  
+HETATM    8  C8  KNI B 900       8.109   5.715   7.774  1.00 32.04      C    C  
+HETATM    9  C9  KNI B 900       8.629   4.846   6.816  1.00 32.83      C    C  
+HETATM   10  C10 KNI B 900       5.140   4.375  10.352  1.00 22.94      C    C  
+HETATM   11  C11 KNI B 900       4.067   3.683  11.106  1.00 20.49      C    C  
+HETATM   12  N1  KNI B 900       7.907   1.459   5.427  1.00 32.44      C    N  
+HETATM   13  O1  KNI B 900       5.235   3.791   9.082  1.00 25.21      C    O  
+HETATM   14  O3  KNI B 900       3.327   4.297  11.852  1.00 22.09      C    O  
+HETATM   15  N2  KNI B 900       3.955   2.384  10.893  1.00 21.41      C    N  
+HETATM   16  C26 KNI B 900       3.028   1.603  11.696  1.00 22.03      C    C  
+HETATM   17  C12 KNI B 900       1.944   1.001  10.835  1.00 24.82      C    C  
+HETATM   18  S1  KNI B 900       0.668   0.435  11.993  1.00 31.66      C    S  
+HETATM   19  C27 KNI B 900      -0.158   2.056  12.160  1.00 28.64      C    C  
+HETATM   20  C13 KNI B 900       3.783   0.542  12.457  1.00 19.38      C    C  
+HETATM   21  O6  KNI B 900       3.758  -0.629  12.111  1.00 19.61      C    O  
+HETATM   22  C17 KNI B 900       5.339  -1.386  16.330  1.00 19.01      C    C  
+HETATM   23  N3  KNI B 900       4.496   0.982  13.492  1.00 17.23      C    N  
+HETATM   24  O4  KNI B 900       6.324  -1.234  17.045  1.00 17.77      C    O  
+HETATM   25  C15 KNI B 900       4.705  -0.180  15.642  1.00 17.64      C    C  
+HETATM   26  C28 KNI B 900       7.372   0.900  12.976  1.00 19.72      C    C  
+HETATM   27  C16 KNI B 900       6.775   0.654  14.347  1.00 17.12      C    C  
+HETATM   28  C31 KNI B 900       8.465   1.319  10.446  1.00 20.30      C    C  
+HETATM   29  C14 KNI B 900       5.350   0.082  14.274  1.00 18.12      C    C  
+HETATM   30  O2  KNI B 900       4.949   0.934  16.427  1.00 17.78      C    O  
+HETATM   31  C29 KNI B 900       7.401   2.166  12.426  1.00 20.68      C    C  
+HETATM   32  C33 KNI B 900       7.899  -0.146  12.245  1.00 20.35      C    C  
+HETATM   33  C30 KNI B 900       7.949   2.368  11.171  1.00 21.38      C    C  
+HETATM   34  C32 KNI B 900       8.437   0.066  10.993  1.00 20.29      C    C  
+HETATM   35  N4  KNI B 900       4.742  -2.565  16.064  1.00 20.71      C    N  
+HETATM   36  C20 KNI B 900       3.544  -2.664  15.224  1.00 20.81      C    C  
+HETATM   37  C18 KNI B 900       5.373  -3.819  16.506  1.00 19.84      C    C  
+HETATM   38  C19 KNI B 900       4.427  -4.993  16.258  1.00 18.96      C    C  
+HETATM   39  S2  KNI B 900       3.263  -4.440  14.973  1.00 25.22      C    S  
+HETATM   40  C21 KNI B 900       6.653  -3.979  15.741  1.00 19.96      C    C  
+HETATM   41  O5  KNI B 900       6.746  -3.574  14.588  1.00 21.99      C    O  
+HETATM   42  N5  KNI B 900       7.637  -4.575  16.403  1.00 16.49      C    N  
+HETATM   43  C22 KNI B 900       9.013  -4.639  15.892  1.00 17.46      C    C  
+HETATM   44  C23 KNI B 900       9.556  -3.249  15.542  1.00 17.61      C    C  
+HETATM   45  C24 KNI B 900       9.097  -5.567  14.678  1.00 18.08      C    C  
+HETATM   46  C25 KNI B 900       9.880  -5.183  17.021  1.00 17.58      C    C  
+CONECT    1    2   12
+CONECT    2    1    3
+CONECT    3    2    4    6
+CONECT    4    3    5    9
+CONECT    5    4   12
+CONECT    6    3    7   13
+CONECT    7    6    8
+CONECT    8    7    9
+CONECT    9    4    8
+CONECT   10   11   13
+CONECT   11   10   14   15
+CONECT   12    1    5
+CONECT   13    6   10
+CONECT   14   11
+CONECT   15   11   16
+CONECT   16   15   17   20
+CONECT   17   16   18
+CONECT   18   17   19
+CONECT   19   18
+CONECT   20   16   21   23
+CONECT   21   20
+CONECT   22   24   25   35
+CONECT   23   20   29
+CONECT   24   22
+CONECT   25   22   29   30
+CONECT   26   27   31   32
+CONECT   27   26   29
+CONECT   28   33   34
+CONECT   29   23   25   27
+CONECT   30   25
+CONECT   31   26   33
+CONECT   32   26   34
+CONECT   33   28   31
+CONECT   34   28   32
+CONECT   35   22   36   37
+CONECT   36   35   39
+CONECT   37   35   38   40
+CONECT   38   37   39
+CONECT   39   36   38
+CONECT   40   37   41   42
+CONECT   41   40
+CONECT   42   40   43
+CONECT   43   42   44   45   46
+CONECT   44   43
+CONECT   45   43
+CONECT   46   43
+END

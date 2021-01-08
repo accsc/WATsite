@@ -1,0 +1,6 @@
+python_dir                     /programs/miniconda/bin/
+amber_home                     /programs/miniconda/
+pymol_dir                      /usr/bin
+watsite_dir                    /programs/WATsite
+reduce_dir                     /programs/WATsite/bin
+

@@ -1,0 +1,14 @@
+parm prot_amber.prmtop [sys]
+parm ref.pdb [ref]
+reference ref.pdb parm [ref]
+
+trajin sys_md_*.nc parm [sys]
+
+autoimage
+rms reference !(:WAT,Cl\-,Na+,CA)&!@H= out rms.dat
+
+trajout mdsnaps.pdb pdb include_ep
+go
+
+quit
+

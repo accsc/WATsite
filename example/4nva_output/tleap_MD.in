@@ -1,0 +1,43 @@
+source oldff/leaprc.ff14SB
+source leaprc.gaff
+HOH = SPC
+WAT = SPC
+loadAmberParams frcmod.spce
+addAtomTypes {
+        { "M1"  "Fe" "sp3" }
+        { "Y1"  "N" "sp3" }
+        { "Y2"  "N" "sp3" }
+        { "Y3"  "N" "sp3" }
+        { "Y4"  "N" "sp3" }
+        { "Y5"  "N" "sp3" }
+        { "Y6"  "O" "sp3" }
+}
+HD1 = loadmol2 HD1.mol2
+HM1 = loadmol2 HM1.mol2
+FE1 = loadmol2 FE1.mol2
+WT1 = loadmol2 WT1.mol2
+loadamberparams HEM.frcmod
+loadamberparams frcmod.ions1lm_126_spce
+loadamberparams 4NVA_mcpbpy.frcmod
+
+prot = loadpdb prot_dry.pdb
+wat  = loadpdb gasol_wat.pdb
+mol = combine {prot wat}
+
+bond mol.172.NE2 mol.291.FE
+bond mol.290.NA mol.291.FE
+bond mol.290.NB mol.291.FE
+bond mol.290.NC mol.291.FE
+bond mol.290.ND mol.291.FE
+bond mol.291.FE mol.292.O
+bond mol.171.C mol.172.N
+bond mol.172.C mol.173.N
+
+solvatebox mol SPCBOX 10.0
+addions mol Na+ 0
+addions mol Cl- 0
+
+saveamberparm mol prot_amber.prmtop prot_amber.inpcrd
+
+quit
+ 

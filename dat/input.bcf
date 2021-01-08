@@ -1,0 +1,32 @@
+$Input_files:
+   MyBindingSite.pdb          |input pdb file to define protein binding site    
+      ../mdsnaps.pdb          |input trajectory in pdb                          
+      ../waterEnergy          |folder contain water energy files                
+
+$Input_MDsnapshots:
+               10000          |number of frames in trajectory files             
+               SPC/E          |water model (SPC/E; TIP3P; OPC; TIP4P; TIP4PEW; AMOEBA)
+
+$Grid_Parameters:
+                 1.0          |size of water (SD)                               
+                0.25          |griddelta: distance between two adjacent grid points
+                 3.0          |Farest Distance to extend binding site box       
+               0.045          |Water density for grid cutoff                    
+
+$Cluster_method:
+                   2          |clustering method for HS identification (=1: DBSCAN; =2: QT clustering)
+
+$DBSCAN:
+                 300          |min of points define neighbor in DBSCAN (start number)
+                  80          |min of points define neighbor in DBSCAN (end number)
+
+$Hydro_Cluster:
+                  10          |maximum clusters                                 
+                2.50          |cluster_mean_dist                                
+                2.75          |maxdist                                          
+                10.0          |distance cutoff for QT clustering                
+
+$Entropy:
+                   9          |covariance dimension (=3: two 3x3 matrix; =6: one 6x6 dimension; =9: both 3x3 and 6x6 method)
+                  70          |number of bins used to construct Probability Distribution function
+

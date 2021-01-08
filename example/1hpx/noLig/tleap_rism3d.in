@@ -1,0 +1,5 @@
+source leaprc.protein.ff14SB
+prot = loadpdb prot_dry.pdb
+saveamberparm prot prot_dry.prmtop prot_dry.inpcrd
+savepdb prot prot_dry.pdb
+quit

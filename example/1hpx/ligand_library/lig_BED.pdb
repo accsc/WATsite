@@ -1,0 +1,101 @@
+HETATM    1  C01 BED A 501       7.733   1.994  12.447  1.00 16.31      C    C  
+HETATM    2  C02 BED A 501       7.410   3.402  12.360  1.00 15.80      C    C  
+HETATM    3  C03 BED A 501       7.269   4.068  11.114  1.00 17.10      C    C  
+HETATM    4  C04 BED A 501       7.449   3.338   9.882  1.00 17.58      C    C  
+HETATM    5  C05 BED A 501       7.768   1.941   9.920  1.00 17.31      C    C  
+HETATM    6  C06 BED A 501       7.909   1.278  11.193  1.00 17.32      C    C  
+HETATM    7  C07 BED A 501       2.774  -4.692  16.994  1.00 13.45      C    C  
+HETATM    8  C08 BED A 501       2.771  -5.729  15.981  1.00 13.68      C    C  
+HETATM    9  C09 BED A 501       2.948  -7.107  16.361  1.00 14.43      C    C  
+HETATM   10  C10 BED A 501       3.125  -7.456  17.745  1.00 17.89      C    C  
+HETATM   11  C11 BED A 501       3.128  -6.426  18.753  1.00 15.37      C    C  
+HETATM   12  C12 BED A 501       2.955  -5.062  18.378  1.00 13.83      C    C  
+HETATM   13  C13 BED A 501       2.603  -3.218  16.622  1.00 12.55      C    C  
+HETATM   14  O14 BED A 501       3.609  -2.745  15.706  1.00 15.07      C    O  
+HETATM   15  C15 BED A 501       4.943  -2.623  16.293  1.00 15.49      C    C  
+HETATM   16  C16 BED A 501       5.757  -1.570  15.598  1.00 16.72      C    C  
+HETATM   17  C17 BED A 501       5.048  -0.274  15.521  1.00 16.11      C    C  
+HETATM   18  C18 BED A 501       5.622   0.585  14.365  1.00 13.26      C    C  
+HETATM   19  C19 BED A 501       4.813   0.566  13.088  1.00 11.98      C    C  
+HETATM   20  O20 BED A 501       4.670  -0.458  12.410  1.00 13.24      C    O  
+HETATM   21  N21 BED A 501       4.259   1.773  12.712  1.00 11.14      C    N  
+HETATM   22  O22 BED A 501       6.990   0.233  14.014  1.00 16.79      C    O  
+HETATM   23  C23 BED A 501       7.862   1.349  13.820  1.00 15.37      C    C  
+HETATM   24  O24 BED A 501       5.216   0.307  16.823  1.00 14.50      C    O  
+HETATM   25  O25 BED A 501       7.064  -1.387  16.211  1.00 19.69      C    O  
+HETATM   26  C26 BED A 501       5.745  -3.837  16.036  1.00 15.83      C    C  
+HETATM   27  O27 BED A 501       5.876  -4.242  14.880  1.00 16.44      C    O  
+HETATM   28  N28 BED A 501       6.291  -4.452  17.110  1.00 11.13      C    N  
+HETATM   29  C29 BED A 501       7.086  -5.638  16.976  1.00 11.72      C    C  
+HETATM   30  C30 BED A 501       8.556  -5.337  17.063  1.00 14.07      C    C  
+HETATM   31  C31 BED A 501       9.244  -6.423  17.686  1.00 12.35      C    C  
+HETATM   32  C32 BED A 501       9.292  -4.167  16.626  1.00 13.70      C    C  
+HETATM   33  C33 BED A 501      10.720  -4.114  16.828  1.00 14.45      C    C  
+HETATM   34  C34 BED A 501      11.395  -5.225  17.459  1.00 12.93      C    C  
+HETATM   35  C35 BED A 501       6.931  -6.710  18.065  1.00 10.46      C    C  
+HETATM   36  O36 BED A 501       6.757  -6.038  19.309  1.00 10.96      C    O  
+HETATM   37  C37 BED A 501      10.661  -6.391  17.894  1.00 16.08      C    C  
+HETATM   38  C38 BED A 501       8.267  -7.495  18.043  1.00 10.58      C    C  
+HETATM   39  C39 BED A 501       3.457   1.990  11.518  1.00 10.05      C    C  
+HETATM   40  C40 BED A 501       1.972   1.889  11.762  1.00  9.88      C    C  
+HETATM   41  C41 BED A 501       1.262   2.793  10.918  1.00 10.51      C    C  
+HETATM   42  C42 BED A 501       1.254   1.047  12.681  1.00  9.92      C    C  
+HETATM   43  C43 BED A 501      -0.190   1.138  12.728  1.00 12.50      C    C  
+HETATM   44  C44 BED A 501      -0.885   2.051  11.874  1.00 12.61      C    C  
+HETATM   45  C45 BED A 501       3.552   3.380  10.870  1.00  8.80      C    C  
+HETATM   46  O46 BED A 501       3.703   4.343  11.926  1.00 10.86      C    O  
+HETATM   47  C47 BED A 501      -0.172   2.892  10.957  1.00 11.27      C    C  
+HETATM   48  C48 BED A 501       2.227   3.548  10.067  1.00  8.53      C    C  
+HETATM   49  F49 BED A 501       8.198  -0.001  11.142  1.00 25.63      C    F  
+HETATM   50  F50 BED A 501       2.616  -5.432  14.711  1.00 18.71      C    F  
+CONECT    1    2    6   23
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6
+CONECT    6    1    5   49
+CONECT    7    8   12   13
+CONECT    8    7    9   50
+CONECT    9    8   10
+CONECT   10    9   11
+CONECT   11   10   12
+CONECT   12    7   11
+CONECT   13    7   14
+CONECT   14   13   15
+CONECT   15   14   16   26
+CONECT   16   15   17   25
+CONECT   17   16   18   24
+CONECT   18   17   19   22
+CONECT   19   18   20   21
+CONECT   20   19
+CONECT   21   19   39
+CONECT   22   18   23
+CONECT   23    1   22
+CONECT   24   17
+CONECT   25   16
+CONECT   26   15   27   28
+CONECT   27   26
+CONECT   28   26   29
+CONECT   29   28   30   35
+CONECT   30   29   31   32
+CONECT   31   30   37   38
+CONECT   32   30   33
+CONECT   33   32   34
+CONECT   34   33   37
+CONECT   35   29   36   38
+CONECT   36   35
+CONECT   37   31   34
+CONECT   38   31   35
+CONECT   39   21   40   45
+CONECT   40   39   41   42
+CONECT   41   40   47   48
+CONECT   42   40   43
+CONECT   43   42   44
+CONECT   44   43   47
+CONECT   45   39   46   48
+CONECT   46   45
+CONECT   47   41   44
+CONECT   48   41   45
+CONECT   49    6
+CONECT   50    8
+END

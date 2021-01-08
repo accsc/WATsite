@@ -1,0 +1,36 @@
+Remark line goes here
+MASS
+
+BOND
+
+ANGLE
+
+DIHE
+cd-cd-ce-cc   4   26.600       180.000           2.000      same as X -ce-cf-X , penalty score=136.0
+nd-cd-ce-cc   4   26.600       180.000           2.000      same as X -ce-cf-X , penalty score=136.0
+cc-cc-ce-cd   4    4.000       180.000           2.000      same as X -ce-ce-X , penalty score=136.0
+cc-cc-ce-ha   4    4.000       180.000           2.000      same as X -ce-ce-X , penalty score=136.0
+cd-cd-ce-ha   4   16.000       180.000           2.000      same as X -cc-cd-X , penalty score=136.0
+nd-cc-ce-cd   4    4.000       180.000           2.000      same as X -ce-ce-X , penalty score=136.0
+cc-cd-cf-c2   4    4.000       180.000           2.000      same as X -cf-cf-X , penalty score=136.0
+cc-cd-cf-ha   4    4.000       180.000           2.000      same as X -cf-cf-X , penalty score=136.0
+cd-cd-cf-c2   4    4.000       180.000           2.000      same as X -cf-cf-X , penalty score=136.0
+cd-cd-cf-ha   4    4.000       180.000           2.000      same as X -cf-cf-X , penalty score=136.0
+nd-cc-ce-ha   4    4.000       180.000           2.000      same as X -ce-ce-X , penalty score=136.0
+nd-cd-ce-ha   4   16.000       180.000           2.000      same as X -cc-cd-X , penalty score=136.0
+
+IMPROPER
+cc-cd-ce-ha         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 46.8 (use general term))
+cc-ce-cc-nd         1.1          180.0         2.0          Using the default value
+c3-cc-cc-cd         1.1          180.0         2.0          Using the default value
+c3-cc-cd-cd         1.1          180.0         2.0          Using the default value
+cd-ce-cd-nd         1.1          180.0         2.0          Using the default value
+c3-o -c -o          1.1          180.0         2.0          Using general improper torsional angle  X- o- c- o, penalty score=  3.0)
+cc-cd-cd-cf         1.1          180.0         2.0          Same as c2-ca-ca-ca, penalty score=304.0)
+c2-cd-cf-ha         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 46.8 (use general term))
+cf-ha-c2-ha         1.1          180.0         2.0          Same as X -X -ca-ha, penalty score= 47.1 (use general term))
+
+NONBON
+
+
+

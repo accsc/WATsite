@@ -1,0 +1,109 @@
+HETATM    1  C1  BEE A 501       2.705  -4.919  17.226  1.00 16.97      C    C  
+HETATM    2  C2  BEE A 501       2.993  -5.729  18.357  1.00 17.18      C    C  
+HETATM    3  C3  BEE A 501       3.221  -7.116  18.200  1.00 18.54      C    C  
+HETATM    4  C4  BEE A 501       3.163  -7.693  16.903  1.00 19.73      C    C  
+HETATM    5  C5  BEE A 501       2.877  -6.886  15.782  1.00 18.60      C    C  
+HETATM    6  C6  BEE A 501       2.647  -5.500  15.944  1.00 17.48      C    C  
+HETATM    7  C7  BEE A 501       7.587   1.515  12.571  1.00 16.22      C    C  
+HETATM    8  C8  BEE A 501       7.902   0.666  11.456  1.00 16.98      C    C  
+HETATM    9  C9  BEE A 501       7.943   1.195  10.132  1.00 18.61      C    C  
+HETATM   10  C10 BEE A 501       7.667   2.567   9.937  1.00 19.53      C    C  
+HETATM   11  C11 BEE A 501       7.350   3.419  11.055  1.00 17.97      C    C  
+HETATM   12  C12 BEE A 501       7.309   2.888  12.374  1.00 16.47      C    C  
+HETATM   13  C13 BEE A 501       7.536   0.936  13.955  1.00 15.45      C    C  
+HETATM   14  O14 BEE A 501       6.533  -0.127  14.030  1.00 14.63      C    O  
+HETATM   15  C15 BEE A 501       5.175   0.352  14.190  1.00 13.77      C    C  
+HETATM   16  C16 BEE A 501       4.406  -0.656  15.035  1.00 13.79      C    C  
+HETATM   17  C17 BEE A 501       5.127  -0.993  16.303  1.00 13.67      C    C  
+HETATM   18  C18 BEE A 501       4.649  -2.357  16.877  1.00 14.19      C    C  
+HETATM   19  C19 BEE A 501       5.556  -3.484  16.410  1.00 13.87      C    C  
+HETATM   20  O20 BEE A 501       5.588  -3.750  15.207  1.00 14.20      C    O  
+HETATM   21  N21 BEE A 501       6.275  -4.135  17.327  1.00 12.84      C    N  
+HETATM   22  C22 BEE A 501       7.210  -5.260  17.039  1.00 12.43      C    C  
+HETATM   23  C23 BEE A 501       8.714  -4.762  17.022  1.00 13.10      C    C  
+HETATM   24  C24 BEE A 501       9.734  -5.928  16.744  1.00 13.75      C    C  
+HETATM   25  C25 BEE A 501       8.990  -3.636  15.984  1.00 13.56      C    C  
+HETATM   26  C26 BEE A 501       7.024  -6.235  18.182  1.00 12.45      C    C  
+HETATM   27  O27 BEE A 501       6.975  -5.797  19.358  1.00 11.33      C    O  
+HETATM   28  N28 BEE A 501       6.921  -7.562  17.825  1.00 12.05      C    N  
+HETATM   29  C29 BEE A 501       6.746  -8.531  18.882  1.00 13.23      C    C  
+HETATM   30  O30 BEE A 501       3.262  -2.637  16.449  1.00 14.83      C    O  
+HETATM   31  C31 BEE A 501       2.470  -3.445  17.393  1.00 15.79      C    C  
+HETATM   32  O32 BEE A 501       4.936   0.135  17.182  1.00 13.27      C    O  
+HETATM   33  O33 BEE A 501       3.055  -0.142  15.302  1.00 12.46      C    O  
+HETATM   34  C34 BEE A 501       4.439   0.543  12.928  1.00 13.69      C    C  
+HETATM   35  O35 BEE A 501       4.415  -0.392  12.125  1.00 13.81      C    O  
+HETATM   36  N36 BEE A 501       3.829   1.727  12.739  1.00 12.98      C    N  
+HETATM   37  C37 BEE A 501       3.064   2.036  11.557  1.00 12.35      C    C  
+HETATM   38  C38 BEE A 501       1.521   2.058  11.899  1.00 12.63      C    C  
+HETATM   39  C39 BEE A 501       0.973   0.669  12.423  1.00 12.54      C    C  
+HETATM   40  C40 BEE A 501       0.653   2.527  10.683  1.00 13.39      C    C  
+HETATM   41  C41 BEE A 501       3.507   3.414  11.140  1.00 11.71      C    C  
+HETATM   42  O42 BEE A 501       3.460   4.368  11.971  1.00 11.19      C    O  
+HETATM   43  N43 BEE A 501       3.922   3.513   9.863  1.00 11.80      C    N  
+HETATM   44  C44 BEE A 501       4.350   4.835   9.407  1.00 11.43      C    C  
+HETATM   45  S45 BEE A 501       3.369 -11.782  17.033  1.00 26.58      C    S  
+HETATM   46  C46 BEE A 501       4.269 -11.086  15.664  1.00 22.88      C    C  
+HETATM   47  C47 BEE A 501       4.206  -9.757  15.619  1.00 22.74      C    C  
+HETATM   48  C48 BEE A 501       3.405  -9.187  16.716  1.00 21.67      C    C  
+HETATM   49  C49 BEE A 501       2.914 -10.135  17.522  1.00 22.77      C    C  
+HETATM   50  S50 BEE A 501       8.086   4.768   6.524  1.00 27.26      C    S  
+HETATM   51  C51 BEE A 501       8.138   4.382   8.252  1.00 23.61      C    C  
+HETATM   52  C52 BEE A 501       7.715   3.147   8.533  1.00 22.22      C    C  
+HETATM   53  C53 BEE A 501       7.306   2.410   7.323  1.00 23.37      C    C  
+HETATM   54  C54 BEE A 501       7.448   3.134   6.215  1.00 23.98      C    C  
+CONECT    1    2    6   31
+CONECT    2    1    3
+CONECT    3    2    4
+CONECT    4    3    5   48
+CONECT    5    4    6
+CONECT    6    1    5
+CONECT    7    8   12   13
+CONECT    8    7    9
+CONECT    9    8   10
+CONECT   10    9   11   52
+CONECT   11   10   12
+CONECT   12    7   11
+CONECT   13    7   14
+CONECT   14   13   15
+CONECT   15   14   16   34
+CONECT   16   15   17   33
+CONECT   17   16   18   32
+CONECT   18   17   19   30
+CONECT   19   18   20   21
+CONECT   20   19
+CONECT   21   19   22
+CONECT   22   21   23   26
+CONECT   23   22   24   25
+CONECT   24   23
+CONECT   25   23
+CONECT   26   22   27   28
+CONECT   27   26
+CONECT   28   26   29
+CONECT   29   28
+CONECT   30   18   31
+CONECT   31    1   30
+CONECT   32   17
+CONECT   33   16
+CONECT   34   15   35   36
+CONECT   35   34
+CONECT   36   34   37
+CONECT   37   36   38   41
+CONECT   38   37   39   40
+CONECT   39   38
+CONECT   40   38
+CONECT   41   37   42   43
+CONECT   42   41
+CONECT   43   41   44
+CONECT   44   43
+CONECT   45   46   49
+CONECT   46   45   47
+CONECT   47   46   48
+CONECT   48    4   47   49
+CONECT   49   45   48
+CONECT   50   51   54
+CONECT   51   50   52
+CONECT   52   10   51   53
+CONECT   53   52   54
+CONECT   54   50   53
+END
